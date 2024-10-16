@@ -1,0 +1,6 @@
+pytesseract
+Flask
+torch
+opencv-python
+Pillow
+NumPy
